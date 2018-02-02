@@ -1,0 +1,31 @@
+*{
+	margin: 0;
+	padding:0;
+}
+body{
+	background: url("https://c1.staticflickr.com/5/4760/26131968788_e38ceefe49_b_d.jpg") no-repeat center center fixed;
+	background-size: cover;
+}
+
+#weather{
+	position: relative;
+	margin: 8% auto auto auto;
+	width: 40%;
+	padding:40px 50px;
+	border-radius: 20px;
+	background: rgba(255,255,255,0.3);	
+	font-size: 3em;
+	color: rgb(188,120,30);
+	}
+	
+#wtw{
+	position: relative;
+	margin: 8% auto auto auto;
+	width: 40%;
+	padding:40px 50px;
+	border-radius: 20px;
+	background: rgba(255,255,255,0.3);	
+	font-size: 2em;
+	color: rgb(188,48,10);
+	}
+	
